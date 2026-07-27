@@ -2,8 +2,7 @@
 
 A modern and responsive **Todo List Application** built using **React.js** and **Redux Toolkit**. This application helps users manage their daily tasks with a clean interface and efficient state management.
 
-View Demo:
-https://react-redux-todo-app-lac.vercel.app/
+
 ---
 
 ## 🚀 Features
@@ -16,6 +15,8 @@ https://react-redux-todo-app-lac.vercel.app/
 - 🎨 Smooth animations with Framer Motion
 - 📱 Responsive user interface
 
+View Demo:
+https://react-redux-todo-app-lac.vercel.app/
 ---
 
 ## 🛠️ Tech Stack
